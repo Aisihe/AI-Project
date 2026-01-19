@@ -1,0 +1,74 @@
+Top 15 papers for query: 'artificial intelligence automation emerging technology'
+
+Title: Advancements in Manufacturing Technology for the Biotechnology Industry: The Role of Artificial Intelligence and Emerging Trends
+Year: 2024, Citations: 27, Score: 0.54
+Abstract: The biotechnology industry is evolving rapidly in terms of production processes. In this study, we will evaluate the manufacturing technology in bioprocessing, automation, and data integration in biotechnological engineering. It will also examine how artificial intelligence (AI) enhances industrial operations, Predictive maintenance through AI, and Process optimization using AI; it facilitates quality control and supply chain management performance with the implementation of artificial intellige...
+--------------------------------------------------------------------------------
+Title: Artificial Intelligence as an Emerging Technology in Global Trade
+Year: 2022, Citations: 8, Score: 0.34
+Abstract: With Industry 4.0 and now 5.0 technologies, the entire globe is embracing these changes. Artificial intelligence-powered systems have immense potential to eliminate international geographical barriers and prove to influence global trade worldwide. The present study highlights how AI increases productivity, economic development, and provides international trade with new horizons. The global value chains, prediction of future trends like changes in consumer demand, risk management, supply chain li...
+--------------------------------------------------------------------------------
+Title: Emerging trends in robotic breast surgery in the era of artificial intelligence
+Year: 2025, Citations: 2, Score: 0.46
+Abstract: The advent of artificial intelligence (AI) heralds a new era in the field of robotic surgery. This article discusses recent trends in the integration of AI technology with robotic surgical procedures, highlighting the latest advancements in robotic breast surgery. The application of AI in robotic surgery ranges from preoperative planning to intraoperative assistance. Machine learning algorithms are now utilized to analyze medical imaging data, enabling surgeons to devise detailed surgical plans ...
+--------------------------------------------------------------------------------
+Title: Automation and Augmentation: Artificial Intelligence, Robots, and Work
+Year: 2024, Citations: 21, Score: 0.51
+Abstract: This article reviews the literature that examines the potential, limitations, and consequences of robots and artificial intelligence (AI) in automation and augmentation across various disciplines. It presents key observations and suggestions from the literature review. Firstly, displacement effects from task automation continue to persist. However, one should not assume an unequivocally increasing efficacy of technology in automation or augmentation, especially given the declining productivity g...
+--------------------------------------------------------------------------------
+Title: A Study on Emerging HR Trends in the Year 2024 with Special Reference to Artificial Intelligence
+Year: 2024, Citations: 0, Score: 0.4
+Abstract: Emerging trends, mainly the incorporation of artificial Intelligence (AI), are using a extensive
+transformation of Human resources (HR) in 2024. With an emphasis on AI's outcomes on HR operations including hiring,
+talent management, employee engagement, and overall performance evaluate, this have a look at examines how the HR
+panorama is converting. extra automation, predictive analytics, and facts-pushed choice-making are being delivered into
+HR by way of the wide use of AI, that is converting ...
+--------------------------------------------------------------------------------
+Title: Consumer Perspectives on the Use of Artificial Intelligence Technology and Automation in Crisis Support Services: Mixed Methods Study
+Year: 2022, Citations: 9, Score: 0.34
+Abstract: Background Emerging technologies, such as artificial intelligence (AI), have the potential to enhance service responsiveness and quality, improve reach to underserved groups, and help address the lack of workforce capacity in health and mental health care. However, little research has been conducted on the acceptability of AI, particularly in mental health and crisis support, and how this may inform the development of responsible and responsive innovation in the area. Objective This study aims t...
+--------------------------------------------------------------------------------
+Title: Comparative Analysis of Blockchain Technology and Artificial Intelligence and its impact on Open Issues of Automation in Workplace
+Year: 2022, Citations: 8, Score: 0.34
+Abstract: In the modern decade, utilizing advances in emerging technologies is essential in operating automation in the workplace. Blockchain constructs a distributed point-to-point system that is capable of balancing the financial economy. In the automation process, the rapid adoption of blockchain technology has made both public and social services flexible. In order to achieve the objectives and goals of an individual organization, all the advancements of Artificial Intelligence (AI) bring both opportu...
+--------------------------------------------------------------------------------
+Title: Revolutionizing stock market trading with artificial intelligence
+Year: 2025, Citations: 10, Score: 0.5
+Abstract: Artificial intelligence is revolutionizing trading in the stock market with high-tech algorithms and automation using machine-learning technology. AI algorithms and automation allow for high accuracy in predicting trends and sophisticated market patterns through analysis. Automated trading platforms remove biases and make financial transactions efficient and effective. AI-powered, personalized portfolios maximize portfolio management for retail and institutional investors. Regulatory frameworks ...
+--------------------------------------------------------------------------------
+Title: Analysis of Artificial Intelligence Technology in Electrical Automation Control
+Year: 2021, Citations: 8, Score: 0.29
+Abstract: : With the rapid development of artificial intelligence technology, innovative applications in the field of electrical automation control are constantly emerging, from intelligent recognition and decision to predictive maintenance, and then to voice and image recognition, these technologies have greatly expanded the possibility of electrical automation. The development of optimized energy management and adaptive control systems fully reflects the contribution of AI to the realization of efficien...
+--------------------------------------------------------------------------------
+Title: Artificial Intelligence in Supply Chain Management: A Systematic Review of Emerging Trends and Evidence in Healthcare Operations
+Year: 2023, Citations: 1, Score: 0.35
+Abstract: The increasing complexity of healthcare supply chains characterized by fluctuating demand, stringent regulatory requirements, globalized procurement networks, and the critical need for real-time resource availability has accelerated the adoption of Artificial Intelligence (AI) as a transformative operational tool. This systematic review synthesizes emerging trends, empirical findings, and technological innovations in AI-enabled supply chain management within healthcare systems. Drawing on peer-r...
+--------------------------------------------------------------------------------
+Title: ANIARA Project - Automation of Network Edge Infrastructure and Applications with Artificial Intelligence
+Year: 2023, Citations: 2, Score: 0.36
+Abstract: Emerging use-cases like smart manufacturing and smart cities pose challenges in terms of latency, which cannot be satisfied by traditional centralized infrastructure. Edge networks, which bring computational capacity closer to the users/clients, are a promising solution for supporting these critical low latency services. Different from traditional centralized networks, the edge is distributed by nature and is usually equipped with limited compute capacity. This creates a complex network to handl...
+--------------------------------------------------------------------------------
+Title: The Role of Artificial Intelligence in Modern Information Systems Design: A Systematic Review
+Year: 2025, Citations: 0, Score: 0.45
+Abstract: The integration of Artificial Intelligence (AI) into Information Systems (IS) design is significantly reshaping traditional development processes, introducing automation, intelligent decision-making, and advanced data analysis capabilities. This systematic review explores the current landscape of AI-driven IS design, focusing on key AI techniques—such as machine learning, natural language processing, and generative models—that are increasingly applied across various stages of system development....
+--------------------------------------------------------------------------------
+Title: Progress in Artificial Intelligence: Current Trends, Challenges and Future Prospects
+Year: 2025, Citations: 0, Score: 0.45
+Abstract: Artificial Intelligence (AI) has emerged as a transformative force across industries, research, and society, enabling
+systems that can perceive, learn, reason, and act autonomously. Over the past decade, AI has transitioned from narrow,
+rule-based systems to general-purpose models capable of understanding natural language, vision, and multimodal inputs.
+This paper provides a comprehensive study of the advancements in artificial intelligence, focusing on major trends, emerging
+technologies, chall...
+--------------------------------------------------------------------------------
+Title: Impact of Artificial Intelligence on Enterprise Resource Planning Systems: Shaping the Future Beyond 2025
+Year: 2025, Citations: 0, Score: 0.45
+Abstract: By 2027, an estimated 60% of enterprises will have adopted AI-driven ERP capabilities, initiating a paradigm
+shift in enterprise resource planning enabled by advancements in deep learning, generative AI, hyper automation, and
+composable architecture. This paper explores the transformative impact of AI and related emerging technologies on ERP
+systems, analyzing architectural evolution, algorithmic intelligence, security innovations including post-quantum
+cryptography, and sustainability integrati...
+--------------------------------------------------------------------------------
+Title: The bibliometric landscape of emerging technology in the accounting information systems field
+Year: 2025, Citations: 2, Score: 0.46
+Abstract: Abstract This study presents a bibliometric analysis of 195 Scopus articles from the past 14 years to explore emerging technologies in accounting information systems (AIS). It identifies a research gap concerning the integration and impact of advanced technologies within the AIS, calling for more empirical studies. This study categorizes the research into four clusters: (1) technology acceptance in AIS, focusing on factors influencing adoption; (2) AIS education evolution; (3) technology used to...
+--------------------------------------------------------------------------------
