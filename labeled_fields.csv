@@ -1,4 +1,874 @@
-text,growth_potential,recession_resistance,automation_resistance,skill_accessibility,cross_industry_collaboration,saturation
-Emergency medicine and nursing require...,7.5,9.2,8.5,3.0,8.0,6.0
-Web development encompasses front-end...,7.0,6.5,5.0,8.5,5.5,7.0
-Food service and restaurant management...,4.0,2.5,4.5,7.0,3.5,9.5
+title,majors,num_majors
+I’m going to halve my publication output. You should conside...,"Environmental Science, Biology",2
+‘Greed is the iron cage of our times’ — why nationalism is h...,"Political Science, Sociology",2
+Little red dots as young supermassive black holes in dense i...,Physics,1
+A ‘time capsule’ for cells stores the secret experiences of ...,"Biology, Psychology",2
+Daily briefing: Symbols on ancient pottery could be earliest...,"Mathematics, Applied Mathematics",2
+Can ‘toxic masculinity’ be measured? Scientists try to quant...,"Sociology, Psychology",2
+Forget formalism: mathematics was built on infighting and em...,"Applied Mathematics, Mathematics",2
+What happens if fewer children get vaccinated? Japan holds l...,Public Health,1
+Making progress on global health will need high-quality evid...,Public Health,1
+Humanoid robots step up their game: how useful are the lates...,"Chemistry, Artificial Intelligence",2
+Ageing rewires the body’s tolerance to infection...,"Public Health, Biomedical Engineering",2
+LLMs behaving badly: mistrained AI models quickly go off the...,Artificial Intelligence,1
+Predicting the fate of tropical forests under intensifying h...,Environmental Science,1
+AI tools boost individual scientists but could limit researc...,"Neuroscience, Biology",2
+Stretchy organic LED devices with an ‘exciplex’ state are hi...,"Chemistry, Materials Science",2
+Collective intelligence for AI-assisted chemical synthesis -...,Chemistry,1
+The effect of dopamine D2-like receptor blockade on human mo...,Neuroscience,1
+Study decision-making to understand how technology will affe...,"Cognitive Science, Marketing",2
+Biosensors characterize the routes taken by receptors to dif...,Biomedical Engineering,1
+Microbiota-induced T cell plasticity enables immune-mediated...,Biology,1
+A cautiously optimistic view on large language model use aga...,"Artificial Intelligence, Cognitive Science",2
+The dynamics of state math anxiety vary by paradigm and timi...,"Applied Mathematics, Cognitive Science",2
+Wafer-scale high-κ HfO2 dielectric films with sub-5-Å equiva...,"Materials Science, Biomedical Engineering",2
+Mapping the effects of gender-affirming sex hormone therapy ...,"Psychology, Public Health",2
+Coral tissue depth reconstructed using skeletal microstructu...,"Environmental Science, Biomedical Engineering",2
+Plan meta-objective for sub-micron quantitative phase imagin...,"Materials Science, Neuroscience",2
+Neuroscientists must not be afraid to study religion...,Neuroscience,1
+Evaluation of immuno-oncologic biomarkers and β-catenin expr...,"Biomedical Engineering, Materials Science",2
+The influence of study area selection and landslide inventor...,"Civil Engineering, Sociology",2
+Influence of objective and perceived exposures to urban natu...,"Sociology, Civil Engineering",2
+"To improve resilience to climate change, track what endures...",Environmental Science,1
+Bringing methylation profile scores to early life - Nature R...,"Psychology, Biology",2
+Unveiling the significance of Netrin-1 and Netrin-4 in metab...,"Neuroscience, Chemistry",2
+A meta-analysis assessing the effectiveness of demand-side i...,"Public Health, Marketing",2
+Design for end of life: how circularity can offer a differen...,Environmental Science,1
+Shining a light on orphan GPCRs - Nature Chemical Biology...,"Chemistry, Biology",2
+Charting our forest future: national supply curves for fores...,Environmental Science,1
+Soft organic electrochemical neurons operating at biological...,"Neuroscience, Biomedical Engineering",2
+Comment on: “Current and emerging strategies for myopia cont...,"Cognitive Science, Neuroscience",2
+Fossil-fuel phase out is not enough: countries must remove a...,Environmental Science,1
+The geomorphic scar of fire - Nature Geoscience...,"Environmental Science, Biology",2
+Prevalence of suicidal behavior in nigeria: a systematic rev...,Psychology,1
+Green innovations are the best policy option for reducing gr...,"Environmental Science, Public Health",2
+"An everyday-task-focused, strategy-based educational program...",Psychology,1
+One year of Nature Reviews Biodiversity - Nature Reviews Bio...,Environmental Science,1
+Embracing a 24-hour cycle in urban governance - Nature Citie...,"Sociology, Civil Engineering",2
+Scaling to new heights: methodological insights for upliftin...,"Sociology, Marketing",2
+Scene-level movie data from Amazon X-Ray in the US market co...,"Data Science, Physics",2
+Response to comment on: A novel rat model for investigating ...,Biomedical Engineering,1
+A zero-shot learning framework for chilli leaf disease detec...,"Public Health, Artificial Intelligence",2
+Why culture is key to waste management - Nature Human Behavi...,"Civil Engineering, Cognitive Science",2
+Multiparametric MRI radiomics nomogram predicts synchronous ...,"Data Science, Neuroscience",2
+Enhancing dietary management and nutritional analysis throug...,Artificial Intelligence,1
+Comment on: ‘Thyroid eye disease and steroid therapy: risk s...,Public Health,1
+Field-tailoring quantum materials via magneto-synthesis: met...,Materials Science,1
+The astronomical year ahead - Nature Astronomy...,"Physics, Environmental Science",2
+Near-100% site utilization of single atoms for efficient ele...,Chemistry,1
+Dilemmas and reflections: an observation of violent crimes a...,"Sociology, Psychology",2
+Related microorganisms occupy similar ecological communities...,Biology,1
+Environmentally sustainable kidney care in low- and middle-i...,"Public Health, Civil Engineering",2
+Exploring and visualizing stratified GWAS results with PheWe...,Biology,1
+Social change in science and the courtroom - Nature Reviews ...,Psychology,1
+Taming polyiodide flow with electroactive mediators - Nature...,"Chemistry, Biomedical Engineering",2
+Why 50-year studies are needed in a 3-year-grant world - Nat...,Environmental Science,1
+Novel insights into chronic HBV infection - Nature Reviews G...,"Public Health, Biology",2
+A monolithic three-dimensional integrated red micro-LED disp...,"Electrical Engineering, Biomedical Engineering",2
+Response to ‘Towards an individualized strategy in periopera...,"Chemistry, Business",2
+A demographic comparison of NASA astronauts and commercial s...,Sociology,1
+NASA won’t bring Mars samples back to Earth: this is the sci...,"Biology, Biomedical Engineering",2
+Xylosyltransferase engineering to manipulate proteoglycans i...,"Biology, Biomedical Engineering",2
+Interaction mechanisms between liquid organic matter and sol...,"Chemistry, Materials Science",2
+Multidimensional determinants of generative AI acceptance in...,"Cognitive Science, Artificial Intelligence",2
+Magnetism adds a dimension to ammonia oxidation electrocatal...,"Chemistry, Materials Science",2
+Cost-effectiveness of lung cancer screening: insights from r...,Public Health,1
+Fibrous-layer periosteal stem cells sensing injury-induced i...,Biomedical Engineering,1
+Integrated hydrogel microneedle aptamer sensor for wearable ...,Biomedical Engineering,1
+Irrigation increased historical land surface and groundwater...,"Civil Engineering, Environmental Science",2
+The promises and perils of crime prediction - Nature Human B...,"Sociology, Cognitive Science",2
+Beyond neurons: astrocytic ensembles stabilize memories afte...,"Neuroscience, Biology",2
+Expression of sphingosine-1-phosphate receptor 1 in the brai...,Neuroscience,1
+Supervision of not-for-profit minority institutional shareho...,"Business, Political Science",2
+Frequent and clinically relevant germline DNA repair gene va...,Biology,1
+Combating cyberbullying with transparency: unveiling the imp...,"Sociology, Political Science",2
+The high cost of importing green hydrogen from Africa to Eur...,Environmental Science,1
+"Pan-disease dimensions in the brain, eye and heart capture s...","Psychology, Neuroscience",2
+"The High Seas Treaty spells hope for the ocean, but only if ...",Environmental Science,1
+"Improving TNASCI: addressing classification accuracy, autono...","Neuroscience, Psychology",2
+Engineered living glues secrete therapeutic proteins for tre...,"Biology, Biomedical Engineering",2
+The dawn of ‘off-the-shelf’ B cell-depleting therapies for a...,Biology,1
+Can’t get motivated? This brain circuit might explain why — ...,Neuroscience,1
+Mitoxyperilysis as a distinct cell death type - Nature Cell ...,Biology,1
+Better models are needed to gauge the ecological impacts of ...,"Environmental Science, Civil Engineering",2
+Targeting epigenetic readers - Nature Chemical Biology...,Biology,1
+Paradoxes of the antibiotic pipeline - Humanities and Social...,"Public Health, Biology",2
+Cytoskeleton reorganization induced by a novel K6-K14 kerati...,"Biology, Biomedical Engineering",2
+Quantifying women’s water polo overhead movement volumes usi...,"Data Science, Cognitive Science",2
+Inclusive finance development and intergenerational income m...,Sociology,1
+The North-Eastern Europe and Northern Asia isotopic dataset ...,Environmental Science,1
+Spatial correlation network and driving factors of inter-pro...,"Sociology, Political Science",2
+A call to re-collectivize science and make it more equitable...,"Biology, Environmental Science",2
+Dissecting how morphogens shape cell fates in human neural o...,Neuroscience,1
+A project-level dataset of Chinese Belt and Road energy inve...,"Environmental Science, Civil Engineering",2
+Working together: a multi-component intranasal vaccine provi...,Biology,1
+Advances in understanding preclinical rheumatoid arthritis a...,Public Health,1
+Chemosensory response to Pt-based chemotherapeutics via bitt...,"Chemistry, Biology",2
+Why water security matters to cities under extreme heat in t...,Civil Engineering,1
+Large Language Models in Legal Systems: A Survey - Humanitie...,"Political Science, Computer Science",2
+The behavioral dimension of transport decarbonization - npj ...,"Civil Engineering, Sociology",2
+Zika immune imprint risks dengue - Nature Immunology...,"Cybersecurity, Public Health",2
+Engineering energy-efficient Saccharomyces cerevisiae for me...,"Environmental Science, Biology",2
+A ‘time capsule’ for cells stores the secret experiences of ...,"Biology, Psychology",2
+The impact of urine output trajectory on clinical outcomes i...,"Biomedical Engineering, Public Health",2
+Chromosome-level genome assembly of a Chinese evergreen swee...,Biology,1
+The poetic life and death of a glow-worm...,"Cognitive Science, Physics",2
+Understanding phenomenological experiences of autistic inert...,"Psychology, Sociology",2
+Activating modern industrial heritage conservation. The revi...,"Civil Engineering, Sociology",2
+Implications of Australia’s under-16 social media ban - Natu...,"Sociology, Public Health",2
+Perceptions of city foodscapes - Nature Cities...,Sociology,1
+"Imputations, inverse hyperbolic sines and impossible values ...",Cognitive Science,1
+The npj Digital Medicine Editorial Fellowship - npj Digital ...,"Biomedical Engineering, Public Health",2
+Linguistic pitch is hierarchically encoded in the right vent...,Neuroscience,1
+Exploring the relationship between caring ability and moral ...,"Psychology, Sociology",2
+Balancing exploration-exploitation renewal and Indonesian fi...,"Business, Marketing",2
+A multimodal dataset of causal mechanisms in materials scien...,"Materials Science, Neuroscience",2
+Gz and β-arrestin 1 signaling in the μ-opioid receptor - Cel...,NONE,0
+Variability as a new discovery channel for intermediate-mass...,Physics,1
+Can ‘toxic masculinity’ be measured? Scientists try to quant...,"Sociology, Psychology",2
+Whole-of-food system governance for transformative change - ...,"Political Science, Public Health",2
+The hidden human cost of defunded LGBTQIA+ health research -...,"Public Health, Psychology",2
+Modelling behaviour in author networks with graphon mean fie...,"Marketing, Cognitive Science",2
+The CL1 as a platform technology to leverage biological neur...,"Neuroscience, Biomedical Engineering",2
+Measuring bacterial killing to predict antibiotic treatment ...,Biology,1
+Integrating hypsography for large-scale lake analysis - Natu...,Environmental Science,1
+An alternate chapter in magnetism - Nature Physics...,"Physics, Materials Science",2
+Discretionary foods have notable environmental and expenditu...,"Economics, Environmental Science",2
+A molecular glue halts RAS–MAPK signaling - Nature Cancer...,Biology,1
+Enhanced crosstalk between α- and δ-cells promotes recurrent...,"Neuroscience, Biology",2
+The emergence of polarised groups through source filtering -...,"Sociology, Marketing",2
+"Relationship between pelvic incidence and hip, pelvic, and l...","Sociology, Public Health",2
+Technical modifications to improve erectile function recover...,Biomedical Engineering,1
+Drivers of same same-sex sexual behaviour - Nature Ecology &...,"Sociology, Psychology",2
+Why design choices matter in recommender systems - Nature Ma...,"Cognitive Science, Artificial Intelligence",2
+Time-resolved cortisol monitoring with skin-interfaced weara...,"Neuroscience, Biomedical Engineering",2
+Mapping cell–cell communication networks onto cell-state tra...,"Neuroscience, Applied Mathematics",2
+Exploring the operational performance of Indian smes: an int...,"Finance, Business",2
+Dietary fibre as an essential nutrient - Nature Food...,Civil Engineering,1
+Cultural diversity through the lenses of ecology - Nature Co...,"Environmental Science, Cognitive Science",2
+Automated satellite-based glacial lake inventory and change ...,Environmental Science,1
+SWFITEM: Solar Wind Fitting for Investigations of Thermodyna...,Environmental Science,1
+Beyond fresh: implications of produce prescription policy fo...,"Public Health, Business",2
+"Order or disorder, that is the question in high-entropy allo...","Materials Science, Mechanical Engineering",2
+The hidden health effects of endocrine-disrupting chemicals ...,Public Health,1
+Oxidative uptake of Ce by oceanic ferromanganese crusts and ...,Environmental Science,1
+Reducing bulky medical images via shape-texture decoupled de...,"Biomedical Engineering, Neuroscience",2
+The relationship between emotional intelligence and work per...,Psychology,1
+Understanding the effects of aging on whole-body dynamic bal...,"Civil Engineering, Sociology",2
+Alexis Soyer’s empiricist kitchen - Nature Food...,"Marketing, Sociology",2
+Progress in mechanisms and therapy for fibromyalgia - Nature...,NONE,0
+AIs are biased towards some Indian castes — how can research...,"Artificial Intelligence, Sociology",2
+From in-silico QSAR modeling to in-vitro MTT assay: experime...,"Chemistry, Biomedical Engineering",2
+Policy drivers for clean-energy technology 2025 - Nature Rev...,Environmental Science,1
+Engineered nanobodies facilitate cryo-EM studies of small pr...,"Biology, Biomedical Engineering",2
+Order and chaos in urban life - Nature Cities...,"Sociology, Civil Engineering",2
+Precision bounds for characterising quantum measurements - N...,Physics,1
+Including overlooked littoral zones in lake carbon budgets c...,Environmental Science,1
+An anniversary annum - Nature Physics...,"Physics, Materials Science",2
+From rodents on the ISS to humans in commercial LEO - Nature...,"Biomedical Engineering, Biology",2
+High-fidelity chip delayering using green (515 nm) femtoseco...,"Physics, Electrical Engineering",2
+Shared universal pressures in the evolution of human languag...,"Cognitive Science, Psychology",2
+The role of biodegradable plastics in the global plastic fut...,"Civil Engineering, Biomedical Engineering",2
+Active conversion of atmospheric carbon dioxide to methane i...,Environmental Science,1
+Dynamical modulation of hippocampal replay through firing ra...,Neuroscience,1
+TET1 as a master regulator controlling GPX4-dependent and -i...,"Biomedical Engineering, Biology",2
+Evidence for Alfvén waves powering auroral arc via a static ...,"Cybersecurity, Physics",2
+A historical approach of media development in Saudi Arabia u...,"Political Science, Marketing",2
+Science decade for sustainable development - Nature Reviews ...,"Civil Engineering, Environmental Science",2
+Social-ecological network analysis of national park attracti...,"Environmental Science, Sociology",2
+DFT study of benzothiadiazole based small molecules for high...,Chemistry,1
+Wonder and curiosity beyond the obvious—a dynamic model of b...,"Cognitive Science, Psychology",2
+Caution is needed when translating the carbon market logic t...,Environmental Science,1
+US science after a year of Trump: what has been lost and wha...,"Neuroscience, Biomedical Engineering",2
+Functional movement screen and asymmetries in female volleyb...,"Neuroscience, Mathematics",2
+The acceptability to patients with macular disease to have r...,"Cognitive Science, Artificial Intelligence",2
+Forced labour in US food supply chains - Nature Food...,"Sociology, Electrical Engineering",2
+Proteomic profile of faricimab-associated occlusive retinal ...,Biology,1
+Science and Hinduism share the vision of a quest for truth -...,"Psychology, Cognitive Science",2
+Plant recognition by Trichoderma Harzianum elicits upregulat...,Biology,1
+"To gain public trust, make art central to science communicat...","Political Science, Marketing",2
+Non-viral vectors as beacons of hope for reducing genotoxic ...,"Biomedical Engineering, Biology",2
+Structural analysis of OCT4 binding to human LIN28B nucleoso...,"Biology, Chemistry",2
+"Electrical conductivities of (Mg,Fe)O at extreme pressures a...","Environmental Science, Materials Science",2
+ASF1B promotes gastric cancer liver metastasis through inhib...,Biology,1
+Immature orangutans require cultural knowledge to develop ma...,Psychology,1
+"Knowledge, attitudes, and practices regarding acne among uni...",Public Health,1
+Projections of 21st-century sea-level fall along coastal Gre...,Environmental Science,1
+"In memoriam – Robert M. Bilder, Ph.D. - Neuropsychopharmacol...","Neuroscience, Chemistry",2
+Digital divide and healthcare service utilization among olde...,Public Health,1
+"Beyond urban and rural: exploring form, accessibility, and i...","Sociology, Civil Engineering",2
+Research on coupling coordination of new quality productive ...,"Business, Neuroscience",2
+EMUC25: shaping tomorrow’s uro-oncology care - Nature Review...,"Biomedical Engineering, Biology",2
+Revised estimates of CO2 sources and sinks improve global ca...,Environmental Science,1
+"Climate change and AKI: heat, hazards and health-system read...","Public Health, Environmental Science",2
+Human brain MRI data of intrathecally injected tracer evolut...,Neuroscience,1
+Blood biomarkers reveal pathways associated with multimorbid...,"Public Health, Biology",2
+Higgs mode-driven phase transitions in two-dimensional perov...,"Materials Science, Physics",2
+Mechanistically guided residual learning for battery state m...,"Environmental Science, Neuroscience",2
+Getting to the (square) root of stock-market swings...,"Finance, Economics",2
+Magma oceans could host dynamos in massive Earth-like planet...,Environmental Science,1
+Smile-shaped electron gradient distributions observed during...,"Physics, Neuroscience",2
+Translating a bioinspired polymer into a modular surgical pl...,"Biomedical Engineering, Chemistry",2
+The virtual cell - Nature Methods...,"Biology, Neuroscience",2
+Tariffs and economic uncertainty threaten public health - Na...,Public Health,1
+Rising lake and reservoir emissions - Nature Climate Change...,Environmental Science,1
+"Talent retention in South Korean context: social support, cu...","Sociology, Psychology",2
+Ependymoglial cells are critical for cortex regeneration in ...,Neuroscience,1
+Leveraging circular nutrients to improve the sustainability ...,"Civil Engineering, Environmental Science",2
+Astaxanthin improve the intestinal microbiota and metabolism...,Biology,1
+Predictors of vitamin D deficiency and quality of life in ob...,Data Science,1
+Floating science stations: my month on a research vessel loo...,"Environmental Science, Civil Engineering",2
+Validation of histopathology-based deep learning algorithms ...,"Artificial Intelligence, Biomedical Engineering",2
+A unified knowledge graph linking foodomics to chemical-dise...,Biology,1
+The ERP characteristics in the process of hazard identificat...,"Cognitive Science, Psychology",2
+Cultural diversity of religion across 117 countries - Nature...,"Political Science, Biology",2
+A sustainability-oriented supply chain supplier selection fr...,"Civil Engineering, Mechanical Engineering",2
+A study of mental health status and its influencing factors ...,Psychology,1
+Prevalence and risk factors of stress urinary incontinence a...,Public Health,1
+"Trajectory of stratum radiatum, lacunosum and moleculare int...","Neuroscience, Biology",2
+An evaluation system for regional cultural suitability of ur...,Civil Engineering,1
+Highly efficient LED device built by stacking layers of ligh...,"Materials Science, Electrical Engineering",2
+Enhancing link prediction in biomedical knowledge graphs wit...,"Biology, Biomedical Engineering",2
+Resilient low-inertia power systems through asynchronous ene...,Electrical Engineering,1
+Behavioral and psychophysical characterization of propriocep...,Neuroscience,1
+Impact of dual-tasking and balance confidence on turns and t...,"Neuroscience, Psychology",2
+Rotation amplifies mixing in ageing Sun-like stars - Nature ...,"Physics, Environmental Science",2
+Social bonds and community support are vital to prison refor...,Sociology,1
+HCN channels reveal conserved and divergent physiology in su...,Neuroscience,1
+Spatial connections between the timing of hydroclimatic extr...,Environmental Science,1
+Love and economic development - Nature Human Behaviour...,"Psychology, Sociology",2
+Tragic love: AI’s emotionless system and the absence of huma...,"Psychology, Artificial Intelligence",2
+Bowel incision closure with a semi-mutomated Robot-assisted ...,Biomedical Engineering,1
+Molecular and zooarchaeological identification of 5000 year ...,"Environmental Science, Biology",2
+Immunoassays for the detection and differentiation of Paenib...,"Biology, Cybersecurity",2
+"Isolation, purification and characterization of lipocartilag...",Biomedical Engineering,1
+Irreversibility in climate action - Nature Climate Change...,Environmental Science,1
+Age stereotypes in appeals for intergenerational solidarity:...,Sociology,1
+Rethinking classroom design to improve learning - Nature Hum...,"Psychology, Cognitive Science",2
+Integrative multimodal hybrid data fusion for mortality pred...,"Biology, Artificial Intelligence",2
+High-entropy alloy Janus artificial enzymes for pH-gated seq...,"Biomedical Engineering, Chemistry",2
+Label-free tissue NIR-II autofluorescence imaging for visual...,"Biomedical Engineering, Neuroscience",2
+Identification of a novel real-time PCR reference gene panel...,Biology,1
+Improved de novo production of prostaglandin F2α from glucos...,Biology,1
+A CT Dataset with RECIST Measurements and Comprehensive Segm...,"Artificial Intelligence, Biomedical Engineering",2
+Cyclone-induced cooling is weaker than suggested by previous...,Environmental Science,1
+2D perovskites featuring intralayer bidentate ligands - Natu...,"Chemistry, Materials Science",2
+TET1 suppresses hepatocellular carcinoma progression by modu...,"Biology, Materials Science",2
+Ancient ‘snowball’ Earth had frigidly briny seas...,Environmental Science,1
+Monsters: interdisciplinary explorations in monstrosity - Hu...,"Sociology, Biology",2
+There can be more to consciousness research than theory test...,"Psychology, Cognitive Science",2
+Looking backwards and forwards - Nature Reviews Clean Techno...,"Environmental Science, Civil Engineering",2
+Unusual objects illuminate new evolutionary paths - Nature A...,Physics,1
+Trans-RNAs to program translation initiation - Nature Method...,Biology,1
+Colour blindness as a risk factor for bladder cancer - Natur...,"Public Health, Cognitive Science",2
+Site-saturation functional screens identify PALB2 missense v...,"Biology, Neuroscience",2
+Surface rejuvenation of stony near-Earth asteroids triggered...,Physics,1
+Post-transcriptional control of endogenous retroviruses by L...,Biology,1
+Collective intelligence for AI-assisted chemical synthesis -...,Chemistry,1
+A potential turning point for Bolivia’s biodiversity conserv...,Environmental Science,1
+Trump one year on: How six US researchers plan to protect sc...,"Biology, Neuroscience",2
+Artificial intelligence for public health can harness data f...,Public Health,1
+The Italian parliament first to recognize obesity as a chron...,Public Health,1
+Climate mode interactions amplify coastal flood risks and th...,Environmental Science,1
+Nickel-catalyzed divergent sulfonations of propargylic carbo...,Chemistry,1
+Ultra-low-density exoplanets observed around a young star...,Physics,1
+A modified nanoparticle–mRNA complex for improved gene editi...,"Biomedical Engineering, Biology",2
+Climate adaptation and resilience must account for context a...,"Environmental Science, Public Health",2
+"Take the News & Views end-of-year quiz: vampire fungus, migr...",Biology,1
+"Forest streamflow driven by soils, topography and previous r...","Environmental Science, Civil Engineering",2
+Seeing cities through video games - Nature Cities...,"Sociology, Civil Engineering",2
+Reply to: ‘The use of β-blockers after myocardial infarction...,Public Health,1
+Fine-tune AlphaFold with limited cryo-EM observations - Comm...,"Physics, Materials Science",2
+Outside interference or Hong Kong embracing its unique ident...,"Political Science, Sociology",2
+Europe’s water law needs genomic resolution - Nature Water...,Biology,1
+Engineering AI co-scientists for statistical genetics applic...,Biology,1
+Low temperature and rapid photothermal oxidation of liquid g...,Chemistry,1
+Integrating psychological and mental health perspectives in ...,Psychology,1
+Workplaces must respond better to the bullied boss - Nature ...,Psychology,1
+Cities growing food and people - Nature Cities...,Sociology,1
+Quantifying biases in reconstructed brain networks - Communi...,Neuroscience,1
+The urgent need for African research collaboration on medici...,Public Health,1
+"When local arthropod biomass declines, every species counts ...",Environmental Science,1
+Corporate transformation is key to achieving zero waste - Na...,"Business, Marketing",2
+Memories of items and their contexts are encoded by separate...,"Neuroscience, Cognitive Science",2
+Q-methodological exploration of environmental characteristic...,Sociology,1
+Ice age wolf pup’s stomach yields rare DNA from woolly rhino...,Biology,1
+Persistent inequities in global lake science - Nature Review...,Environmental Science,1
+On the fundamental resource for exponential advantage in qua...,Physics,1
+How to change research culture with participatory workshops ...,"Sociology, Psychology",2
+The cosmos through the lenses of astronomy and art - Nature ...,Physics,1
+Pathologies of the modern paradigm and the refugee question:...,"Sociology, Political Science",2
+Creating anthropo-scenes - Nature Climate Change...,Environmental Science,1
+The technological revolution in mental health: opportunities...,Psychology,1
+United States and European Union aid cuts risk exacerbating ...,"Political Science, Public Health",2
+Tropical flash floods are becoming more frequent and widespr...,Environmental Science,1
+The fictionalization of morality police in Saudi novel: a ne...,"Sociology, Political Science",2
+The ethics of suicide research online: a consensual protocol...,"Sociology, Psychology",2
+Predicting in vivo chromatin states - Nature Genetics...,Biology,1
+Complexoform-specific ligands that modulate the pleiotropic ...,"Chemistry, Biology",2
+Immature development time and survivorship of the dengue vec...,"Cybersecurity, Public Health",2
+Bridging the mentorship divide: how large language models co...,"Biomedical Engineering, Biology",2
+When clean isn’t enough - Nature Water...,"Environmental Science, Civil Engineering",2
+Bionic Janus hydrogel drives infected Achilles tendon regene...,Biomedical Engineering,1
+Lived experiences of Lewy body dementia diagnosis and care i...,"Psychology, Public Health",2
+Non-covalent assembly of multiple epitopes onto a single nan...,Biomedical Engineering,1
+Ophthalmology in the Ebers Papyrus: a translation-based reas...,"Public Health, Biomedical Engineering",2
+Lowering the Mo limit for nitrogen fixation by Mo-nitrogenas...,"Biology, Environmental Science",2
+The influence of retirement age on life expectancy based on ...,Sociology,1
+"Pancreatic cancer: advances in immunology, translational ana...",Biology,1
+Twisted graphene puts magnetic fields in check - Nature Sens...,Materials Science,1
+Machine learning models for crude protein prediction in Tama...,Biology,1
+Endothelin-3 and T-type Ca2+ channels drive enteric neural c...,"Biomedical Engineering, Neuroscience",2
+Safety regulations for cloning and a compass that finds true...,"Biology, Environmental Science",2
+A photonically linked memristive neural network - Nature Ele...,"Neuroscience, Biomedical Engineering",2
+Artificial skin mimics the octopus’s art of disguise...,"Biomedical Engineering, Artificial Intelligence",2
+Europa’s thick lid - Nature Astronomy...,"Physics, Environmental Science",2
+Times series InSAR deformation monitoring of Jinchuan mining...,"Data Science, Applied Mathematics",2
+The Knowledge Connector decision support system for multiomi...,Biology,1
+Choreographing time: toward therapy-aligned entactogens for ...,"Psychology, Neuroscience",2
+Dual genomic localizations and gene regulatory functions of ...,Biology,1
+Let’s talk about limitations - Nature Reviews Physics...,"Materials Science, Environmental Science",2
+Tightening the Sargassum belt - Nature Geoscience...,Environmental Science,1
+Schools for suicide prevention - Nature Health...,"Psychology, Public Health",2
+Gender stereotypes in dance education: a study of implicit b...,"Sociology, Psychology",2
+CDK3 drives neuron loss in Alzheimer’s disease - Nature Agin...,"Neuroscience, Biology",2
+A Benchmark Dataset of Chinese Development Finance with Clim...,"Environmental Science, Economics",2
+Predicting the fate of tropical forests under intensifying h...,Environmental Science,1
+A UAV RGB dataset and method for instance tree crown segment...,"Biology, Artificial Intelligence",2
+The future of autologous stem cell transplantation in system...,Biomedical Engineering,1
+Soluble epoxide hydrolase inhibitory constituents from the H...,Chemistry,1
+Closing the carbon mismatch - Nature Geoscience...,Environmental Science,1
+Unlocking larger flow and higher temperature with enhanced g...,"Environmental Science, Civil Engineering",2
+Fibroblast heterogeneity in 2025 - Nature Reviews Rheumatolo...,"Biomedical Engineering, Materials Science",2
+Intermediate-dose TBI/fludarabine conditioning for allogenei...,Biomedical Engineering,1
+Evaluating the modified spinal cord injury secondary conditi...,"Biomedical Engineering, Civil Engineering",2
+Diagnostic whole transcriptome sequencing in a series of 123...,Biology,1
+Social image presentation of virtual sports in social media ...,"Marketing, Sociology",2
+GWAS on idiopathic achalasia - Nature Reviews Gastroenterolo...,Public Health,1
+The organised crime of kidnapping in Nigeria: a quantitative...,"Sociology, Psychology",2
+Quantifying customer sentiment for automobile brand percepti...,"Marketing, Cognitive Science",2
+Green ammonia presents an opportunity to advance energy and ...,"Environmental Science, Civil Engineering",2
+"Squishing, squeezing and stretching age hematopoietic stem c...",Biomedical Engineering,1
+Mini-mint ice cubes for early postoperative thirst relief in...,Biomedical Engineering,1
+Emerging concepts and novel mechanisms in organ fibrosis - n...,"Biomedical Engineering, Biology",2
+Association between thyroid hormone sensitivity indices and ...,NONE,0
+Anthropogenic warming projected to drive a decline in global...,Environmental Science,1
+Advancing transdisciplinarity through library–academic colla...,"Sociology, Political Science",2
+Molecular insights on the proangiogenic effects of VEGF like...,"Data Science, Business",2
+Immunizing against dementia? - Nature Reviews Microbiology...,Biology,1
+Could lessons from medical research ethics inform better con...,Environmental Science,1
+Developing super-tortillas to address malnutrition in Latin ...,"Sociology, Public Health",2
+Can boomerangs bounce?...,Materials Science,1
+"Enhancing seed, land and water management in humanitarian in...","Civil Engineering, Environmental Science",2
+Fuzzy weighted natural nearest neighbor based density peak c...,Data Science,1
+First evidence of naturally vertically transmitted Coxiella-...,Public Health,1
+Do their ears hang low? The genetics of dogs’ adorable flopp...,NONE,0
+Chronic spontaneous urticaria is associated with elevated se...,NONE,0
+A cross-linguistic investigation of /h/ symbolism: the case ...,"Cognitive Science, Sociology",2
+Comment to: Rethinking maritime security from the bottom up:...,"Environmental Science, Civil Engineering",2
+"Sustainable cost recovery principles can drive equitable, on...",Civil Engineering,1
+Anti-BCMA CAR-T cells attenuate microglial activation in pro...,"Neuroscience, Psychology",2
+Weakly supervised colorectal gland segmentation through self...,"Artificial Intelligence, Neuroscience",2
+30 m-resolution annual crop type maps in Northeast China fro...,Environmental Science,1
+Large-scale analysis identifies metabolites associated with ...,"Chemistry, Public Health",2
+Network separation modeling and quantum computing for develo...,Applied Mathematics,1
+Tensions in air and rail integration based on a European lon...,"Civil Engineering, Sociology",2
+Multiparametric comparative assessment of surgical efficacy ...,"Biomedical Engineering, Public Health",2
+"New phase, new faces, same mission - Nature Reviews Electric...","Electrical Engineering, Biomedical Engineering",2
+Fine particulate matter exacerbates childhood asthma via DNM...,"Biology, Public Health",2
+Addressing food waste and hunger together - Nature Human Beh...,"Sociology, Psychology",2
+Bacterial richness for enhanced soil carbon storage - Nature...,"Biology, Environmental Science",2
+Bringing marine microbiome research into the classroom is an...,"Environmental Science, Biology",2
+Compact UV spectral imager - Nature Reviews Electrical Engin...,"Biomedical Engineering, Electrical Engineering",2
+Fibroblast spatial heterogeneity in Crohn’s disease fistulae...,NONE,0
+Advancing transformational leadership for climate action - n...,"Environmental Science, Political Science",2
+Carbon Dots and mesoporous silica nanocomposites improve spr...,Biology,1
+Late Holocene fast-ice dynamics around the Northern Victoria...,Environmental Science,1
+How ageing harms the body’s response to raging infection...,Public Health,1
+The role of take-over cue informativity in interrupted take-...,Cognitive Science,1
+Integrated μECoG–CMOS system enables high-density neural rec...,"Neuroscience, Biomedical Engineering",2
+Incorporating captured carbon into polymers for essential pr...,"Chemistry, Environmental Science",2
+The sequential use of IVF disposable devices doesn’t cause c...,NONE,0
+When science meets violence - Nature Medicine...,"Psychology, Biology",2
+Hyperpolypharmacy in patients with chronic kidney disease an...,Public Health,1
+Traceability for protein sequence to function - Nature Physi...,Biology,1
+Reweaving the Threads of Korean History: AI-Driven Restorati...,Sociology,1
+Transdiagnostic Internet-delivered intervention for children...,Psychology,1
+How did birds evolve? The answer is wilder than anyone thoug...,Physics,1
+Companionship in code: AI’s role in the future of human conn...,"Psychology, Computer Science",2
+Programmed ‘DNA splicing’ removes transposons from genes - N...,Biology,1
+Exploring the multifaceted impacts of artificial intelligenc...,"Cognitive Science, Neuroscience",2
+Bridging the fuel tax revenue gap in the move to electric mo...,"Environmental Science, Civil Engineering",2
+ICT investment and carbon emission efficiency in regional po...,"Environmental Science, Sociology",2
+Why cancer can come back years later — and how to stop it...,Public Health,1
+Earth observation as enabler for implementing the EU regulat...,Environmental Science,1
+Putting children in slums at the heart of urban futures - Na...,Sociology,1
+Plug-and-play plasma: decentralised water decontamination fo...,Civil Engineering,1
+Increased deciduous tree dominance reduces wildfire carbon l...,Environmental Science,1
+AI tools boost individual scientists but could limit researc...,"Neuroscience, Biology",2
+"Flexible ferroelectric biomaterials for skin, neural, and mu...","Biomedical Engineering, Materials Science",2
+Stretchy organic LED devices with an ‘exciplex’ state are hi...,"Chemistry, Materials Science",2
+Beyond the metropolis myth - Nature Cities...,"Sociology, Civil Engineering",2
+The Absence of the Rational Economic Man: A Textual Analysis...,"Sociology, Marketing",2
+Variations in the technical performance of elite female voll...,"Mathematics, Applied Mathematics",2
+Real-time tracking of the intramolecular vibrational dynamic...,"Chemistry, Mechanical Engineering",2
+Toward an understanding of the intrinsic kidney response to ...,Biomedical Engineering,1
+Correlation analysis of the leaf color presentation of three...,NONE,0
+Enriching African genome representation through the AGenDA p...,Biology,1
+Cilium-by-cilium: unveiling hidden proteomic diversity and t...,Biology,1
+Sesamin alleviates androgenetic alopecia by targeting the AR...,NONE,0
+The link between the gender role self-concept and psychobiol...,Psychology,1
+Aligning climate-smart marine spatial planning and ecoscape ...,Environmental Science,1
+Measuring context sensitivity in artificial intelligence con...,"Cognitive Science, Artificial Intelligence",2
+Consumers of nitrite help nitrite accumulate in anoxic ocean...,Environmental Science,1
+Data issues hinder further success in China’s biodiversity c...,Environmental Science,1
+A qualitative study exploring Malaysian women’s preferences ...,"Public Health, Psychology",2
+Advances in battery technologies for smart grids in 2025 - N...,"Electrical Engineering, Environmental Science",2
+Structure-based engineering of bicarbonate transport activit...,"Environmental Science, Chemistry",2
+Governance of urban green spaces as nature-based solutions i...,"Civil Engineering, Sociology",2
+Leveraging LLM-based agents for social science research: ins...,"Sociology, Environmental Science",2
+‘Shattered’: US scientists speak out about how Trump policie...,"Political Science, Sociology",2
+Lessons from Rwanda’s response to the Marburg virus outbreak...,"Public Health, Biology",2
+Cell signaling and transcriptional regulation of osteoclast ...,Biology,1
+Oldest known poison arrows show Stone Age humans’ technologi...,"Neuroscience, Cognitive Science",2
+Identifying ecological restoration zones based on ecological...,"Environmental Science, Civil Engineering",2
+Microbial ethanol production in patients with auto-brewery s...,"Mechanical Engineering, Biology",2
+Hydroelastic waves induced by initial disturbances in ice-co...,Environmental Science,1
+Real-time prediction of influenza and respiratory syncytial ...,"Public Health, Data Science",2
+Scaling laws reveal the extent of Earth’s drying headwaters ...,Environmental Science,1
+Presence of primordial Mg can explain the seismic low-veloci...,"Civil Engineering, Environmental Science",2
+MASLD as a complication of obesity must include liver risk s...,Public Health,1
+Global firms choose to invest in well-connected airport citi...,"Business, Civil Engineering",2
+Regulation of hydrothermal kinetics unlocks record efficienc...,"Environmental Science, Electrical Engineering",2
+Combat the human-made causes of Spain’s wildfires...,"Environmental Science, Public Health",2
+Let’s talk about language—and its role for replicability - H...,"Psychology, Marketing",2
+Identification and verification of SPP1 in anoikis as a prog...,Biology,1
+Connecting screens: the effect of online playful interaction...,Psychology,1
+Towards global healthy longevity: report from the 1st World ...,Public Health,1
+Firefighting robots should be made responsibly - Nature Mach...,"Artificial Intelligence, Cognitive Science",2
+Agronomic management drives the wheat yield plateau in high-...,Environmental Science,1
+A rat model of Immunologic and hypertensive kidney injury - ...,NONE,0
+Distinct sympathetic projections to brown fat regulate therm...,NONE,0
+The ritual stance affects perceptions of effort - Humanities...,"Sociology, Cognitive Science",2
+Spreading inflammation via the skin–joint axis - Nature Revi...,"Biomedical Engineering, Public Health",2
+Och AI the noo from SIU - Nature Reviews Urology...,Public Health,1
+The theory of planned behavior partly explains why adults wi...,Psychology,1
+ALS: a field in motion - Scientific Reports...,Neuroscience,1
+The impact of agricultural green development on common prosp...,"Sociology, Business",2
+Artificial intelligence and precision medicine - Scientific ...,"Biology, Biomedical Engineering",2
+Urinary complement C3 fragment levels and their clinical rel...,NONE,0
+When better data meets better design: How EHR data usability...,"Cognitive Science, Psychology",2
+Cryo-electron tomography reveals coupled flavivirus replicat...,"Physics, Biology",2
+Ex post impact assessment of Marwa rehabilitation on irrigat...,"Civil Engineering, Environmental Science",2
+Biochemical and epigenomic dissection of TFIIE function reve...,Biology,1
+Ophthalmic anaesthesia: a declining skill in anaesthetic tra...,Biomedical Engineering,1
+Biomolecular condensates as electrochemical powerhouses - Na...,Chemistry,1
+Intrinsically stretchable 2D MoS2 transistors - Nature Commu...,"Biomedical Engineering, Materials Science",2
+α-Amylase in Aspergillus oryzae-fermented rice promotes the ...,Biology,1
+Metalens-style image synthesis for metalens imaging via imag...,"Biomedical Engineering, Neuroscience",2
+Plasma exosomal hsa-miR-339-5p is associated with NOD-like r...,Biology,1
+The 2025 Blatten disaster in the Swiss Alps followed excepti...,"Environmental Science, Civil Engineering",2
+Helioseismic evidence that the solar dynamo originates near ...,Environmental Science,1
+Pick a color to control TRP channels - Nature Chemical Biolo...,"Biology, Neuroscience",2
+Interpretable Kolmogorov-Arnold networks for enzyme commissi...,"Applied Mathematics, Biology",2
+Risk of total hip arthroplasty following lumbar fusion surge...,NONE,0
+Natural source zone depletion predicts finite longevity for ...,"Civil Engineering, Environmental Science",2
+Efficient chemical reprogramming of human T cells to pluripo...,"Biomedical Engineering, Biology",2
+Palgrave Communications – connecting research in the humanit...,"Sociology, Political Science",2
+"Distributed multitudes of bio-inspired, biodegradable Lagran...","Biomedical Engineering, Civil Engineering",2
+Satellite swarms set to photobomb more than 95% of some tele...,Physics,1
+Standardized protocols for analyzing lipocartilage and lipoc...,"Biomedical Engineering, Biology",2
+The role of thermostats and human behaviour in residential t...,"Environmental Science, Sociology",2
+Instant gratification and long-term sustainability: a gender...,"Sociology, Civil Engineering",2
+Early-onset Palmijihwang-hwan treatment modulates phospholip...,"Public Health, Biology",2
+Disappearing ‘planet’ reveals a solar system’s turbulent tim...,Environmental Science,1
+Testing the simplification universal in game localization: a...,"Mathematics, Sociology",2
+Argentina must finish building the CART radio telescope...,"Physics, Environmental Science",2
+Gene expression imputation spatially resolves transcriptiona...,Biology,1
+Double-strand break-free epigenetic programming: a safer pat...,Biology,1
+Oligomers mediate the spatial transmission of Aβ peptide agg...,Chemistry,1
+The role of histone demethylase PHF2 as a tumour suppressor ...,Biology,1
+JHG Young Scientist Award 2025 - Journal of Human Genetics...,Biology,1
+Assessment of hydrological drought vulnerability using SPI a...,"Environmental Science, Civil Engineering",2
+Mesoscale moisture convergence drives stronger rainfall extr...,"Environmental Science, Civil Engineering",2
+Advancing an adaptable and practical framework to address wa...,"Environmental Science, Civil Engineering",2
+Successes in climate action - Nature Climate Change...,Environmental Science,1
+Pattern poetry and ludic relief in Zeina Hashem Beck’s oeuvr...,"Physics, Psychology",2
+"Clinical, social, and economic burdens of schizophrenia in J...",Psychology,1
+Rethinking sepsis prediction in the era of large language mo...,"Public Health, Artificial Intelligence",2
+How does the digital economy reshape the geographical patter...,"Sociology, Marketing",2
+The effects of shoulder abduction angle and elastic band res...,NONE,0
+Excluding PLND in favourable intermediate-risk prostate canc...,"Biomedical Engineering, Public Health",2
+An LLM chatbot to facilitate primary-to-specialist care tran...,"Psychology, Biomedical Engineering",2
+Left atrioventricular coupling in isolated pediatric mitral ...,NONE,0
+Enhancing carbon sinks in China using a spatially-optimized ...,Environmental Science,1
+I see Mozambique’s baboons as windows into hominid evolution...,"Cognitive Science, Environmental Science",2
+Learning words in context - Nature Reviews Psychology...,"Psychology, Cognitive Science",2
+Philosophical stances in information systems research: a cas...,"Marketing, Political Science",2
+Cereblon induces G3BP2 neosubstrate degradation using molecu...,Biology,1
+Hepatic tryptophan metabolism links chronic stress to liver ...,"Biology, Psychology",2
+Beyond the Global Plastics Treaty - Nature Reviews Earth & E...,"Environmental Science, Civil Engineering",2
+Management of Charles Bonnet syndrome in routine eye care se...,Physics,1
+Impacts of global warming on coastal flood risk to European ...,"Environmental Science, Civil Engineering",2
+Global risk pooling mitigates financial risk from drought in...,Environmental Science,1
+Segmented filamentous bacteria in the gut protect against se...,Biology,1
+The energy source is not the deciding factor - Nature Water...,"Environmental Science, Civil Engineering",2
+High-resolution cryo-EM meets parasitology in structural mod...,Biology,1
+Powerful people - Nature Climate Change...,Environmental Science,1
+"Assemblable thermoelectric Lego blocks for reconfigurable, s...","Biomedical Engineering, Materials Science",2
+Land use and soil drainage interactions drive macroinvertebr...,"Environmental Science, Biology",2
+A cultural memory semiotics and function behavior structure ...,"Cognitive Science, Artificial Intelligence",2
+Kinetics of vacancy-assisted reversible phase transition in ...,Materials Science,1
+Culturally responsive assessment in mathematical word proble...,Cognitive Science,1
+Mysterious ‘little red dots’ could be black holes in disguis...,"Physics, Economics",2
+Pore-forming venoms as a senolytic strategy - Nature Aging...,"Cybersecurity, Finance",2
+Flexible semiconductor arrays for high-fidelity neural recor...,"Neuroscience, Biomedical Engineering",2
+"Ridicule, deconstruction, reflection, and identity: Christia...","Sociology, Marketing",2
+The import of biological research material is a silent barri...,"Biology, Biomedical Engineering",2
+Gifted dogs learn new words by overhearing humans...,"Cognitive Science, Artificial Intelligence",2
+Palmitic acid-triggered B7H3 palmitoylation promotes immune ...,Biology,1
+Connecting to improve drug discovery - Nature Cardiovascular...,"Chemistry, Biology",2
+A systems engineering approach to enhance utilization of ren...,"Environmental Science, Electrical Engineering",2
+"The river Rhine transports around 4,000 tonnes of macrolitte...","Environmental Science, Civil Engineering",2
+"The polygenic, omnigenic and stratagenic models of complex d...","Biology, Public Health",2
+The new vision from the National Institute of Allergy and In...,Public Health,1
+Assessment of multiple outcomes of habitat models can signif...,"Environmental Science, Cognitive Science",2
+Human contributions to evapotranspiration mitigate swings in...,Environmental Science,1
+A green patina unlocking cities’ potential to adapt to clima...,"Environmental Science, Civil Engineering",2
+Mechanical properties and energy evolution of cemented taili...,Civil Engineering,1
+Data-driven classification of ordinary chondrites and astero...,"Cognitive Science, Data Science",2
+The use of β-blockers after myocardial infarction: no doubts...,NONE,0
+In silico design and immunoinformatics assessment of a multi...,Biology,1
+On the power of simple models: when emergent properties pred...,"Psychology, Neuroscience",2
+Marine darkwave as an event-based framework to assess unusua...,Environmental Science,1
+Changing paradigms through practice - Nature Food...,"Marketing, Public Health",2
+Presuming public support for international sanctions: the Eu...,Political Science,1
+Spatiotemporal assessment of multi hazard risk using graph b...,"Data Science, Finance",2
+Stopping the next flu pandemic...,Public Health,1
+School-based suicide prevention using the gatekeeper program...,"Psychology, Public Health",2
+"Decoding miRNA-Mediated Immunoregulation in SARS-CoV-2, HBV,...","Biology, Biomedical Engineering",2
+Multi-modal ultrasound for evaluating structure and function...,"Biomedical Engineering, Neuroscience",2
+Accessibility evaluation of public service facilities in aff...,Sociology,1
+Behavioural choices shape US indoor temperatures more than t...,"Cognitive Science, Environmental Science",2
+Standardizing the analysis and visualization of human energy...,Data Science,1
+Multi-band circularly polarized patch antenna with CPW feed ...,"Materials Science, Marketing",2
+3D-printed intravaginal ring for infertility treatment - Nat...,"Biomedical Engineering, Mechanical Engineering",2
+Influences of spoken and signed language on numerical cognit...,"Cognitive Science, Psychology",2
+Barriers and facilitators of implementing patient-reported o...,"Public Health, Psychology",2
+A near-infrared Sn-Pb perovskite imager with monolithic inte...,"Materials Science, Physics",2
+Symmetry in category systems across languages - Nature Commu...,"Computer Science, Cognitive Science",2
+Population genomics reveals an ancient origin of heartworms ...,Biology,1
+Discrepancies in Arctic-boreal lake area trends driven by se...,Environmental Science,1
+Spatio-temporal metabolic alterations in cachexia - Nature M...,Neuroscience,1
+Bearing the costs of a climate-safe food transition - Nature...,Environmental Science,1
+Making progress on global health will need high-quality evid...,Public Health,1
+Base-edited CAR7 T cells are safe and efficacious in R/R T-A...,Biology,1
+The hidden cost of video-call glitches...,"Artificial Intelligence, Applied Mathematics",2
+Compressive strength prediction of carbonated recycled aggre...,"Civil Engineering, Artificial Intelligence",2
+Global water security threatened by rising inequality - Natu...,"Environmental Science, Civil Engineering",2
+Carbon emission model and evaluation analysis of vehicle was...,"Environmental Science, Civil Engineering",2
+Risk assessment of earthquake online public opinion based on...,"Cognitive Science, Psychology",2
+Surface water quality prediction via an MLA-Mamba hybrid neu...,"Artificial Intelligence, Civil Engineering",2
+G9a-mediated H3K9me2 orchestrates intestinal epithelial rege...,Biology,1
+The hidden microbial risk in fire hydrants - Nature Water...,Civil Engineering,1
+Urbanization signatures on climate and soils uncovered by cr...,"Environmental Science, Civil Engineering",2
+Extraordinarily long duration of Eocene geomagnetic polarity...,Environmental Science,1
+Arctic driftwood proposal for durable carbon removal - npj C...,Environmental Science,1
+Clouds as the driver of variability and colour changes in br...,"Physics, Environmental Science",2
+Embryo geometry sets the tempo - Nature Physics...,Physics,1
+Structural equation modeling of safety integration and produ...,"Mechanical Engineering, Civil Engineering",2
+The need for a representative workforce to address the US be...,Psychology,1
+Isolation and characterization of lactic acid bacteria from ...,"Biology, Environmental Science",2
+“On the Road” in China: the cultural dynamics and the histor...,"Political Science, Sociology",2
+Inside the International Asteroid Warning Network - Nature R...,"Environmental Science, Biology",2
+Genome engineering for conservation might be a game changer ...,Biology,1
+Biosensors characterize the routes taken by receptors to dif...,Biomedical Engineering,1
+Cost and climate impact of healthy diets worldwide - Nature ...,"Public Health, Environmental Science",2
+PhD students’ taste for risk mirrors their supervisors’...,Psychology,1
+Unregulated emotional risks of AI wellness apps - Nature Mac...,"Artificial Intelligence, Neuroscience",2
+Cities aren’t built for women — it’s time to change that...,"Sociology, Civil Engineering",2
+Ratepayer-backed bonds for utility financings - Nature Energ...,"Economics, Environmental Science",2
+Fuel poverty risk at the end of life needs urgent attention ...,Environmental Science,1
+"mJ-level 7-octave ultraflat white laser encompassing 200–25,...","Physics, Materials Science",2
+"US funding cuts harm aspiring young scientists, too...","Sociology, Public Health",2
+Marine protected areas as living labs? Lessons learned & fut...,Environmental Science,1
+A therapeutic glue that autonomously targets gut bleeding in...,"Biology, Biomedical Engineering",2
+Gene regulatory network transitions reveal the central trans...,Biology,1
+A clumped canopy architecture can increase crop yields while...,Environmental Science,1
+The power of public and patient involvement in healthcare in...,"Biomedical Engineering, Public Health",2
+Boosting immunotherapy by restoring cryptic APC function - C...,Biology,1
+Association between self-regulatory modes and alexithymia me...,Psychology,1
+LLMs behaving badly: mistrained AI models quickly go off the...,Artificial Intelligence,1
+Potassium-competitive acid blockers for the management of ga...,"Public Health, Biology",2
+Eye-sidedness does not drive differences in growth and matur...,Environmental Science,1
+Identification of key factors for early detection of rheumat...,"Public Health, Artificial Intelligence",2
+Dextran-based T-cell expansion nanoparticles for manufacturi...,"Biomedical Engineering, Materials Science",2
+Why citizen science is now essential for official statistics...,"Environmental Science, Sociology",2
+Managing the geopolitics of Europe’s fossil-fuel exit - Natu...,"Environmental Science, Political Science",2
+Hint recognition in Chinese and Russian diplomatic discourse...,Political Science,1
+Behaviour without synapses: peptidergic signalling as a mode...,"Neuroscience, Psychology",2
+Host m6A modifications shape microbiota that drives cell spe...,Biology,1
+"Even in space, telescopes can’t escape photobombers...",Physics,1
+Synthetic data and normative databases in generative artific...,"Neuroscience, Artificial Intelligence",2
+Exploring the genomic population structure and history of Au...,Biology,1
+Ancient pottery reveals early evidence of mathematical think...,"Cognitive Science, Mathematics",2
+Disorder-specific alterations of transient oscillatory dynam...,Neuroscience,1
+Distributed multi-parameter quantum metrology with a superco...,Physics,1
+Biochemical principles of miRNA targeting in flies - Nature ...,Biology,1
+Lactiplantibacillus plantarum Lp815 improves sleep and incre...,"Biology, Psychology",2
+Understanding and rethinking identity through Luhmann’s syst...,"Political Science, Sociology",2
+Double recombinant nOPV2 vaccine - Nature Microbiology...,Biology,1
+Kaolinite’s many lives - Nature Geoscience...,Civil Engineering,1
+"Aesculetin (6,7-dihydroxycoumarin) enhances the differentiat...",Biomedical Engineering,1
+The Tervuren xylarium Wood Density Database (TWDD) - Scienti...,NONE,0
+Clarification of evidence selection for the framework for th...,"Public Health, Chemistry",2
+The hidden role of waste pickers in climate resilience - Nat...,"Environmental Science, Cognitive Science",2
+Effect of the health action process approach theory in patie...,"Cognitive Science, Psychology",2
+Biochar boom-and-bust cycle - Nature Sustainability...,"Environmental Science, Biology",2
+The status and politics of bicycling in the cities of low- a...,Sociology,1
+A sex-specific brake on liver oestrogen signalling - Nature ...,NONE,0
+Removal of fluoride from groundwater using a zeolite A suppo...,Materials Science,1
+A just energy transition requires just-shoring critical mate...,Materials Science,1
+Advances in AI-based patient stratification for rheumatic di...,"Biomedical Engineering, Public Health",2
+Balancing data collection and privacy protection in precisio...,"Biology, Biomedical Engineering",2
+Artificial intelligence characters are dangerous without leg...,"Artificial Intelligence, Cognitive Science",2
+We need accountability in human–AI agent relationships - npj...,"Artificial Intelligence, Cognitive Science",2
+Blood glucose mediation of the association between SIRI and ...,"Public Health, Biomedical Engineering",2
+Key advances in perovskite solar cells in 2025 - Nature Revi...,"Materials Science, Environmental Science",2
+A channel water temperature prediction method based on trans...,Environmental Science,1
+The US is quitting 66 global agencies: what does it mean for...,"Public Health, Political Science",2
+Metabolic adaptation in CD4+ T cells promotes immunosuppress...,"Biology, Biomedical Engineering",2
+"Lesion-targeted, severity-responsive nanoparticle delivery f...",Biomedical Engineering,1
+Genomic clues to the origin of eukaryotic cells...,Biology,1
+Purifying water with manual pumping - Nature Water...,"Civil Engineering, Environmental Science",2
+This shapeshifting polymer was inspired by octopus skin...,"Chemistry, Mechanical Engineering",2
+Data science academic programs in the pre-ChatGPT erain the ...,"Sociology, Data Science",2
+Carbon in river floodplains - Nature Climate Change...,Environmental Science,1
+Optimizing unsupervised clustering of electrochemical impeda...,"Data Science, Neuroscience",2
+AlphaFold can help African researchers to do cutting-edge st...,Biology,1
+Spatiotemporal dynamic and driving factors of ecological res...,"Civil Engineering, Environmental Science",2
+Bacteria break through one-micrometer-square passages by fla...,Biology,1
+Politically knowledgeable ideologues believe they are less e...,Political Science,1
+Enhanced signal-to-noise ratio with exceptional-point phase ...,"Neuroscience, Electrical Engineering",2
+Advances in PFAS treatment in water in 2025 - Nature Reviews...,"Civil Engineering, Environmental Science",2
+Six ways to empower African research and development for hea...,Public Health,1
+Surgical resection versus non-surgical treatments for hepato...,Biology,1
+Restoration of ethanol-induced Bifidobacterium pseudocatenul...,Biology,1
+Functional and structural insights into interactions between...,Biology,1
+Organic crystalline nanoparticles with a long-lived charge-s...,Chemistry,1
+Multilevel evaluation of Prunus cerasifera Ehrh. rootstock c...,NONE,0
+Nationwide genetic screening proves effective at catching di...,"Public Health, Biology",2
+Briefing Chat: Can NASA return rocks from Mars? And why dogs...,"Cognitive Science, Artificial Intelligence",2
+Environmental impacts from European food consumption can be ...,"Environmental Science, Public Health",2
+Projected warming will exceed the long-term thermal limits o...,Environmental Science,1
+Hotspot RPL3L variants drive early onset heart failure throu...,NONE,0
+The relevant influencing factors of self injury among patien...,Psychology,1
+Mistaken identity and the psychology of human recognition...,"Cognitive Science, Psychology",2
+Marine heatwaves are transforming Western mediterranean mari...,Environmental Science,1
+Sex differences in foraging ecology of the chick rearing Brü...,NONE,0
+Content compensation design for older adults’ perceived heal...,"Psychology, Public Health",2
+SH3 domains selectively activate the PI3 kinase through non-...,"Biology, Biomedical Engineering",2
+Green microfinance: Africa’s path to resilience - Humanities...,Sociology,1
+Battery-electric passenger vehicles will be cost-effective a...,Environmental Science,1
+Health risks of oil and gas development - Nature Reviews Nep...,"Public Health, Environmental Science",2
+Mitochondrial asymmetry shifts T cell fate - Nature Cell Bio...,Biology,1
+Predicting tourism growth in Saudi Arabia with machine learn...,"Cognitive Science, Artificial Intelligence",2
+Jellyfish sleep like humans — even though they don’t have br...,"Neuroscience, Cognitive Science",2
+Modeling tissue-specific Drosophila metabolism identifies hi...,Biology,1
+Evaluation of ChatGPT-4o and Gemini for gout management: a c...,NONE,0
+Metabolic reprogramming enhances oxidative stress resistance...,"Biology, Biomedical Engineering",2
+Avoiding affection in Kaathal—The Core: homosexuality saniti...,"Sociology, Psychology",2
+Effectiveness of a hierarchical pharmacist management model ...,Public Health,1
+From superstition to generosity: the role of executives’ luc...,"Business, Sociology",2
+How Rwanda is preparing its health system for the climate cr...,"Public Health, Environmental Science",2
+The relevance of classic language models in the age of AI - ...,"Psychology, Cognitive Science",2
+Unbiased clustering of acute-on-chronic liver failure patien...,"Artificial Intelligence, Public Health",2
+Diverging maturity and converging challenges of water and CO...,Environmental Science,1
+Tracing dynamic arrest - Nature Physics...,"Physics, Cognitive Science",2
+The oldest sepioid cephalopod from the Cretaceous discovered...,"Artificial Intelligence, Neuroscience",2
+Reconstruction of Extreme Sea Levels in coastal China using ...,"Environmental Science, Artificial Intelligence",2
+Response to ‘Non-profits wade in where for-profit life scien...,"Biology, Business",2
+"A bibliometric analysis of governance, risk, and compliance ...","Political Science, Sociology",2
+Same-sex sexual behaviour can help primates to survive — and...,"Psychology, Marketing",2
+From models to molecules: self-organized and instructed mode...,"Biology, Psychology",2
+Calibrated AI for nAMD monitoring with transport validation ...,"Artificial Intelligence, Neuroscience",2
+A study on the coupling mechanism between the urban environm...,"Artificial Intelligence, Neuroscience",2
+HumanBase: an interactive AI platform for human biology - Na...,"Biology, Cognitive Science",2
+Heterogeneous sympathetic control of brown adipose tissue - ...,NONE,0
+Anthropogenic climate change leads to a pronounced reorganis...,Environmental Science,1
+Improving erectile function in diabetic male mice by rescuin...,"Neuroscience, Biomedical Engineering",2
+Disentangling the role of environmental factors in the CKDu ...,"Public Health, Biology",2
+Aged skin exacerbates experimental osteoarthritis via enhanc...,Biomedical Engineering,1
+A mysterious ancient fingerprint and a lemon-shaped planet —...,"Cognitive Science, Environmental Science",2
+Placebo effect influences vaccine responses - Nature Medicin...,"Marketing, Public Health",2
+Nationwide genomic surveillance of carbapenem- and colistin-...,"Biology, Public Health",2
+Double-dose firmonertinib as first-line treatment in patient...,"Business, Materials Science",2
+The prognostic significance of metastasis to No. 253 lymph n...,Materials Science,1
+"The democratization dilemma: When everyone is an expert, who...","Political Science, Sociology",2
+Multiplying matrices in a single pass with light - Nature Ph...,Physics,1
+Measuring electrooculograms of a simulated underwater diver ...,Environmental Science,1
+Discovering the laws behind complex networked systems - Natu...,"Computer Science, Applied Mathematics",2
+Do you have a side hustle alongside your PhD studies? Take N...,"Psychology, Sociology",2
+Evaluation of drip and flood irrigated treatments under vary...,"Environmental Science, Civil Engineering",2
+In vitro release kinetics and in vivo plasma exposure of gre...,Biomedical Engineering,1
+Drone docks for automated forest phenology monitoring - Natu...,Environmental Science,1
+From 1995 to now: the endophthalmitis vitrectomy study and t...,Biomedical Engineering,1
+Clinically-guided models or foundation models? predicting ce...,"Public Health, Biology",2
+Collaborative encounters? Two recent Spanish takes on the Sh...,Sociology,1
+Using interdisciplinary dialogue to understand the influence...,"Psychology, Sociology",2
+C1q-dependent clearance of alpha-synuclein allows macrophage...,"Biology, Neuroscience",2
+Cities are embracing nature for flood defence...,Civil Engineering,1
+Analysis of the spatial-temporal distribution and functional...,NONE,0
+Russia’s invasion of Ukraine: a test for international law -...,Political Science,1
+Energy intensive industry upgrading: the empirical analysis ...,"Civil Engineering, Environmental Science",2
+Understanding purchase intention for genAI-enabled museum cu...,Marketing,1
+The R451 site is critical for PTPN18 to exert tumor suppress...,Biology,1
+Emergency mental health co-responders reduce involuntary psy...,Psychology,1
+The chatbots claiming to be Jesus: spreading gospel or heres...,"Artificial Intelligence, Computer Science",2
+Inclusive writing in the social sciences - Nature Reviews Ps...,Psychology,1
+Mapping the science–technology translational landscape in bi...,"Biology, Biomedical Engineering",2
+Emotion recognition from faces and bodies in Parkinson’s dis...,Neuroscience,1
+The causes of the causes: Aboriginal and Torres Strait Islan...,"Public Health, Sociology",2
+Assessing decadal changes in human exposure near wildfires i...,"Public Health, Environmental Science",2
+The role of the lymphatic system in musculoskeletal system h...,Civil Engineering,1
+Variations in carbon flux allocation among cassava (Manihot ...,Environmental Science,1
+"Materials science, 10 years on - Nature Reviews Materials...",Materials Science,1
+Robust generation of clinically applicable human pluripotent...,Biomedical Engineering,1
+Prognostic role of CDCA3 in lung adenocarcinoma with immune ...,"Biology, Materials Science",2
+Sphingolipid signaling links elastin deficiency to arterial ...,Public Health,1
+Holistic approaches to explain and combat obesity - Nature M...,"Public Health, Environmental Science",2
+Building mechanochemistry into soft biomaterials - Nature Re...,"Biomedical Engineering, Mechanical Engineering",2
+"Placemaking through the invisible: Nyau rituals, spiritual c...",Sociology,1
+AI can turbocharge scientists’ careers — but limit their sco...,"Neuroscience, Artificial Intelligence",2
+IGF2BP3-dependent glutamine/BCAA metabolic rewiring rejuvena...,Biomedical Engineering,1
+How online studies must increase their defences against AI -...,"Psychology, Artificial Intelligence",2
+Brazil’s COP30 legacy should be to protect more of its fores...,"Environmental Science, Public Health",2
+Revisiting type 1 diabetes progression in the non-obese diab...,Public Health,1
+Assembling unregulated DNA segments bypasses synthesis scree...,Biology,1
+GLP-1 receptor agonism counteracts omics aging in mice - Nat...,Biology,1
+Foundation model embeddings for multimodal oncology data int...,"Biomedical Engineering, Biology",2
+Environmental stewardship and health systems: Indigenous-cen...,Public Health,1
+Loss of the CoA-degrading enzyme NUDT19 exacerbates albuminu...,NONE,0
+Oral anticoagulant therapy after ablation for atrial fibrill...,NONE,0
+Ligand-controlled regiodivergent and enantioselective C–H cy...,Chemistry,1
+An interstellar energetic and non-aqueous pathway to peptide...,Physics,1
+The impact of digital literacy on women’s wage income: evide...,Sociology,1
+Low resistance p-type contacts to monolayer WSe2 through chl...,"Materials Science, Chemistry",2
+HPV vaccine could help to protect the unvaccinated against c...,"Public Health, Biology",2
+I’m going to halve my publication output. You should conside...,"Environmental Science, Biology",2
+Ageing rewires the body’s tolerance to infection...,"Public Health, Biomedical Engineering",2
+The undervaluing of elite women in physics - Nature Physics...,"Physics, Materials Science",2
+Beyond conformity: exploring the moderated role of peer effe...,"Business, Marketing",2
+Bottom-up mesoscopic coarse-graining of soft matter - Nature...,"Physics, Materials Science",2
+The growing public health problem of sugar-sweetened beverag...,Public Health,1
+Operando nuclear magnetic resonance decodes alkali-tuned pro...,"Chemistry, Biomedical Engineering",2
+Tailoring Australian carbon farming can realise greater co-b...,Environmental Science,1
+A conversation-analytic perspective of repair initiation in ...,Psychology,1
+The future of interpersonal violence research: Steps towards...,"Sociology, Psychology",2
+"Ultralight, mechanically robust, water stable MXene–chitosan...","Materials Science, Chemistry",2
+Redirecting mast cells for antigen-specific cancer immunothe...,NONE,0
+How much protein do you actually need?...,NONE,0
+Forecasting the number of sunspots for solar cycle 25 utiliz...,Environmental Science,1
+Interdisciplinarity and anxiety - Humanities and Social Scie...,"Psychology, Sociology",2
+Too much efficiency leads to delays - Nature Reviews Physics...,"Cognitive Science, Environmental Science",2
+The psychology of health - Communications Psychology...,Psychology,1
+Walking the talk: voluntary actions on marine protected area...,Environmental Science,1
+Preferential play - Nature Physics...,"Mathematics, Cognitive Science",2
+CD73 overexpression in ADSCs accelerates bladder repair by r...,"Biomedical Engineering, Biology",2
+Stress-testing the cascading economic impacts of urban flood...,"Civil Engineering, Sociology",2
+Models translate lake mud into useful climate variables - Na...,Environmental Science,1
+Sustainability of gap funding programs aimed at commercializ...,"Business, Biology",2
+Pure tone auditory thresholds and their association with cog...,"Cognitive Science, Psychology",2
+Chemical whispers hidden in the plant and microbiota kingdom...,Biology,1
+OTX2 inhibits human pluripotent stem cell reprogramming towa...,"Biology, Biomedical Engineering",2
+The visionary physicist who gave us a new way to view the co...,Physics,1
+Policy levers for household efficiency: an evolutionary game...,"Sociology, Public Health",2
+Long term water quality improvements associated with the res...,"Civil Engineering, Neuroscience",2
+Level the slopes - Nature Physics...,"Neuroscience, Civil Engineering",2
+Artificial Intelligence and the limits of reason: a framewor...,"Cognitive Science, Political Science",2
+Building the world’s first truly global medical foundation m...,Public Health,1
+Flipping the narrative on launching a rewarding career in ac...,"Biomedical Engineering, Psychology",2
+Home-field advantage: how local research leads to new discov...,Sociology,1
+Symbiotic transcatheter pacemaker for lifelong energy regene...,Biomedical Engineering,1
+Mapping Europe’s rooftop photovoltaic potential with a build...,Environmental Science,1
+Metal surface-triggered DNAzyme catalysis for efficient DNA ...,Chemistry,1
+Thrombospondin 1 and 2 regulate mesenchymal progenitor cell ...,Biomedical Engineering,1
+Stronger institutional performance correlates with ecologica...,"Environmental Science, Political Science",2
+Non-traditional fluorescence in quadruple hydrogen bonded su...,Chemistry,1
+"Safeguarding, strengthening and expanding river protections ...","Civil Engineering, Environmental Science",2
+Chronic pain could be eased by uncoupling the sensory and em...,Psychology,1
+"Cell Death Disease turns 15: legacy of service, horizon of c...","Biology, Public Health",2
+Economic inequality does not equate to poor well-being or me...,Sociology,1
+Dietary thiaminase alters morphology and decreases swimming ...,Data Science,1
+Mapping the disease interactome - Nature Reviews Genetics...,Biology,1
+Digital restoration and feature recognition of a Qing-Dynast...,"Neuroscience, Artificial Intelligence",2
+Digitalization and institutional quality as drivers of globa...,Political Science,1
+A Public Image Dataset for Surface Defect Detection of Water...,"Neuroscience, Cognitive Science",2
+Targeting metabolic vulnerabilities: REV-ERB agonist SR9009 ...,Biology,1
+Cholangiocarcinoma derived exosomes attenuate the anti-tumor...,NONE,0
+Ancient DNA and isotope data reflect social diversity in an ...,Sociology,1
+Multi-omic analysis of human PHACTR1 signaling networks - Co...,Biology,1
+"Synthesis, characterisation and evaluation of polyethylene g...","Materials Science, Chemistry",2
+The microbiome at the centre of NAD+ supplementation - Natur...,Biology,1
+Renewable integration and AI demand reshaped power grids in ...,Environmental Science,1
+Preventive hepatology for MASLD in the MENA region: reframin...,Public Health,1
+Should the Loch Ness Monster have a scientific name?...,"Cognitive Science, Biology",2
+Constructing lithium-exclusive pathways in LiFePO4 electrode...,"Civil Engineering, Chemistry",2
+Writing the CRBN degron - Nature Chemical Biology...,"Biology, Chemistry",2
+Reducibility of higher-order networks from dynamics - Nature...,"Mathematics, Neuroscience",2
+Rivers accelerate and slow as temperatures rise - Nature Cli...,Environmental Science,1
+SoilTech innovations for sustainable soil and food security ...,"Biomedical Engineering, Civil Engineering",2
+Climate and traits drive bark decomposition patterns at glob...,Environmental Science,1
+Enhancing soil citrulline degrading function to mitigate soi...,Biology,1
+Applications of AI in urology - Nature Reviews Urology...,Artificial Intelligence,1
+Real-time measurement of the mitochondrial membrane potentia...,"Biomedical Engineering, Finance",2
+Bacteria may not be good at chemotaxis - Nature Physics...,Biology,1
+GPR110 as a regulator of MASH - Nature Reviews Endocrinology...,"Biology, Public Health",2
+2023-2024 El Niño amplifies record sea level surges in Afric...,Environmental Science,1
+Spontaneous vortex formation in rotating fluids - Nature Rev...,"Mechanical Engineering, Physics",2
+On the use and misuse of pangenome and related terms - Natur...,"Environmental Science, Cognitive Science",2
+Enhancing healthcare workers’ safety and well-being through ...,"Psychology, Public Health",2
+Updated global prevalence and ethnic diversity of von Willeb...,"Biology, Public Health",2
+Towards a unified framework for measuring sustainable and in...,Sociology,1
+Concert formats influence how audiences experience live clas...,"Marketing, Sociology",2
+RNA polyadenylation altered by TDP43 loss of function - Natu...,"Biology, Neuroscience",2
+High-frequency ultrasonography in quantifying paraspinal mus...,Biomedical Engineering,1
+SME-TEAM: leveraging trust and ethics for secure and respons...,"Artificial Intelligence, Business",2
+How data science competitions accelerate brain health discov...,"Psychology, Neuroscience",2
+Glycolytic heterogeneity drives metabolic-targeted therapy i...,"Data Science, Biology",2
+The perils of military policing - Nature Human Behaviour...,"Political Science, Psychology",2
+Evaluation and optimization of spatial equity in elderly car...,Sociology,1
+Kymata Soto Language Dataset: an electro-magnetoencephalogra...,"Neuroscience, Artificial Intelligence",2
+Ecological stoichiometry characteristics and influencing fac...,"Environmental Science, Civil Engineering",2
+Levers for equitable material use - Nature Sustainability...,Civil Engineering,1
+Glycophagy is an ancient bilaterian pathway supporting metab...,Biology,1
+Immunologically distinct long COVID after mild acute disease...,Public Health,1
+Rethinking early warning systems for the health effects of e...,Public Health,1
+From one exoplanet to six thousand - Nature Astronomy...,"Physics, Environmental Science",2
+Cross-cultural structures of personal name systems reflect g...,"Marketing, Psychology",2
+AI and AR based digital reconstruction of Liangshan Yi lacqu...,"Neuroscience, Data Science",2
+A practical Bayesian method for gravitational-wave ringdown ...,Physics,1
+Musical stimulation in lactating sows affects pre-weaning pi...,Psychology,1
+PIONEARing how DNA sequence composition tunes TF–nucleosome ...,Biology,1
+Second best underestimates of malnutrition in an era of mult...,"Sociology, Public Health",2
+Expanding the payload scope in antibody-drug conjugates by d...,"Chemistry, Biomedical Engineering",2
+"Domain adaptation, self-supervision, and generative augmenta...","Artificial Intelligence, Neuroscience",2
+A method for planning cycling networks in traditional villag...,"Sociology, Marketing",2
+Energy demand and decarbonization in 2025 and beyond - Natur...,Environmental Science,1
+The rise of spatial insights into tumour tissue architecture...,"Biomedical Engineering, Biology",2
+Digging for perfection: discourse of deformity in Richard II...,"Sociology, Political Science",2
+Consensus-based reporting guideline for participatory develo...,Public Health,1
+The importance of radical transparency for responsible carbo...,Environmental Science,1
+AI-driven weather forecasts for climate adaptation in India ...,Environmental Science,1
+A low-toxicity linezolid analog has potential for use in all...,Chemistry,1
+A quiet revolution is turning the waste crisis into opportun...,"Sociology, Cognitive Science",2
+The Multi-Sensor and Multi-Temporal Dataset of Multiple Crop...,"Environmental Science, Biology",2
+Policymakers and academics envision energy demand reductions...,"Environmental Science, Public Health",2
+Where to after COVID-19? Systems thinking for a human-centre...,Public Health,1
+Tumour explants as next-generation models of cancer - Nature...,"Biology, Business",2
+Mentoring the future of neonatology: program director advice...,"Psychology, Biology",2
+Humanoid robots step up their game: how useful are the lates...,"Chemistry, Artificial Intelligence",2
+Towards a framework for a new research ecosystem - Humanitie...,"Sociology, Marketing",2
+"Configurational effects of personal innovativeness, self-eff...","Marketing, Business",2
+LLM use in scholarly writing poses a provenance problem - Na...,"Biology, Artificial Intelligence",2
+Serum biomarker enables diagnosis and monitoring of idiopath...,"Biomedical Engineering, Public Health",2
